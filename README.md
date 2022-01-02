@@ -1,3 +1,12 @@
+## 介绍
+徐靖峰(岛风)
+2021第二届云原生中间件性能挑战赛1针对冷热读写场景的RocketMQ存储系统设计
+内部赛第一名
+
+#### 外部赛链接
+https://tianchi.aliyun.com/competition/entrance/531922/rankingList/0
+#### 内部赛链接
+https://tianchi.aliyun.com/competition/entrance/531917/rankingList
 ## 前言
 
 人总是这样，年少时，怨恨自己年少，年迈时，怨恨自己年迈，就连参加一场比赛，都会纠结，工作太忙怎么办，周末休息怎么办，成年人的任性往往就在那一瞬间，我只是单纯地想经历一场酣畅的性能挑战赛。所以，云原生挑战赛，我来了，Kirito 带着他的公众号来了。
