@@ -6,8 +6,8 @@ package io.openmessaging;
  */
 public class Constants {
 
-    public static final String ESSD_BASE_PATH = "/essd";
-    public static final String AEP_BASE_PATH = "/pmem";
+    public static final String ESSD_BASE_PATH = "/Users/sampson/Documents/java/developer/tianchiProject/aliyun-cloudnative-race-mq-2021/essd";
+    public static final String AEP_BASE_PATH = "/Users/sampson/Documents/java/developer/tianchiProject/aliyun-cloudnative-race-mq-2021/pmem";
 
     /**
      * topicId + queueId + offset + length

@@ -66,6 +66,9 @@ public class AepManager {
             this.writeBuffer = new NativeMemoryByteBuffer(writeBufferSize);
             String path = Constants.AEP_BASE_PATH + "/" + id;
             File file = new File(path);
+            if (!file.getParentFile().exists()) {
+                file.getParentFile().mkdirs();
+            }
             if (!file.exists()) {
                 file.createNewFile();
             }
